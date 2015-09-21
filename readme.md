@@ -1,4 +1,4 @@
-# Schema Design Workshop
+# Schema Design
 
 ## Relational Databases
 - More fundamental tech from the 1970s
